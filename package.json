@@ -1,0 +1,14 @@
+{
+  "name": "bytequeue",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/Squishy123/bytequeue.git",
+  "author": "Christian Wang <christian.gnaw@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bytenode": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
